@@ -6,7 +6,7 @@
 
 This project involved analyzing customer data to derive actionable insights through segmentation using KMeans clustering. Key features such as Monetary Value, Frequency, and Recency were engineered and scaled for clustering. Outliers were identified and handled separately to enhance the analysis. The final output categorized customers into meaningful segments, providing a foundation for targeted marketing strategies. Visualizations and statistical summaries were utilized to illustrate the distribution and characteristics of each segment, enabling better decision-making for customer relationship management.
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#) [![](https://img.shields.io/badge/Colab-white?logo=Colab)](#)
 
 [View code on Colab](https://colab.research.google.com/drive/1VWvxmgF7gVLRm5Mf_ZfkSdrp_9RISwbl)
 
@@ -20,7 +20,10 @@ This project leverages machine learning techniques to predict potential diseases
 [View code on Colab](https://colab.research.google.com/drive/1pE0_TRUw9vZxFHiCtuUi4myiP7HiYwo_)
 
 ---
-### 
+### Customer Churn Prediction Project
+
+This project analyzes customer data to predict churn behavior using linear regression. It involves data preprocessing, exploratory analysis, and model evaluation to identify key factors influencing customer retention. Insights derived from the analysis aim to enhance strategies for reducing churn.
+
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
 
 [View code on Colab](https://colab.research.google.com/drive/1GKY0TV0JVOQYWfnkd8-EnTR_QX4wK4Cp)
