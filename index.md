@@ -10,7 +10,7 @@ This project involved analyzing customer data to derive actionable insights thro
 [View code on Colab](https://colab.research.google.com/drive/1VWvxmgF7gVLRm5Mf_ZfkSdrp_9RISwbl)
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+PROJECT 2
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
