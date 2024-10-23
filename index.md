@@ -1,11 +1,14 @@
-## Portfolio
+## Selected Projects in Data Science, Machine Learning and NLP
 
 ---
 
-### Category Name 1 
+### Customer Segmentation 
 
-[Project 1 Title](/sample_page)
+This project involved analyzing customer data to derive actionable insights through segmentation using KMeans clustering. Key features such as Monetary Value, Frequency, and Recency were engineered and scaled for clustering. Outliers were identified and handled separately to enhance the analysis. The final output categorized customers into meaningful segments, providing a foundation for targeted marketing strategies. Visualizations and statistical summaries were utilized to illustrate the distribution and characteristics of each segment, enabling better decision-making for customer relationship management.
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+[View code on Colab](https://colab.research.google.com/drive/1VWvxmgF7gVLRm5Mf_ZfkSdrp_9RISwbl)
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
