@@ -11,8 +11,13 @@ This project involved analyzing customer data to derive actionable insights thro
 [View code on Colab](https://colab.research.google.com/drive/1VWvxmgF7gVLRm5Mf_ZfkSdrp_9RISwbl)
 
 ---
-PROJECT 2
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### Disease Prediction Model Using Multiple Classifiers
+
+This project leverages machine learning techniques to predict potential diseases based on symptoms provided by users. Utilizing a dataset of symptoms and corresponding disease outcomes, the model employs multiple classifiers, including Support Vector Classifier (SVC), Gaussian Naive Bayes, and Random Forest, to generate accurate predictions. 
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
+
+[View code on Colab](https://colab.research.google.com/drive/1pE0_TRUw9vZxFHiCtuUi4myiP7HiYwo_)
 
 ---
 [Project 3 Title](http://example.com/)
