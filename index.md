@@ -5,6 +5,9 @@
 ### Customer Segmentation 
 
 This project involved analyzing customer data to derive actionable insights through segmentation using KMeans clustering. Key features such as Monetary Value, Frequency, and Recency were engineered and scaled for clustering. Outliers were identified and handled separately to enhance the analysis. The final output categorized customers into meaningful segments, providing a foundation for targeted marketing strategies. Visualizations and statistical summaries were utilized to illustrate the distribution and characteristics of each segment, enabling better decision-making for customer relationship management.
+This plot visualizes customer cluster distribution and average feature values, highlighting the number of customers per cluster alongside their average Recency, Frequency, and Monetary Value per 100 pounds.
+
+<img src="images/customer_segmentation_plot.png?raw=true" />
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/Numpy-white?logo=Numpy)](#) [![](https://img.shields.io/badge/Pandas-white?logo=Pandas)](#) [![](https://img.shields.io/badge/Colab-white?logo=Colab)](#) [![](https://img.shields.io/badge/sklearn-white?logo=sklearn)](#)
 
