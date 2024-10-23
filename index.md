@@ -28,6 +28,10 @@ This project leverages machine learning techniques to predict potential diseases
 
 This project analyzes customer data to predict churn behavior using linear regression. It involves data preprocessing, exploratory analysis, and model evaluation to identify key factors influencing customer retention. Insights derived from the analysis aim to enhance strategies for reducing churn.
 
+In this visualization, I displayed the distribution of contract types among churned customers, differentiating them by payment method. This plot helps to identify trends in customer churn related to contract agreements.
+
+<img src="images/payment_methods.png?raw=true" />
+
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
 
 [View code on Colab](https://colab.research.google.com/drive/1GKY0TV0JVOQYWfnkd8-EnTR_QX4wK4Cp)
