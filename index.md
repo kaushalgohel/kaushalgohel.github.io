@@ -20,8 +20,10 @@ This project leverages machine learning techniques to predict potential diseases
 [View code on Colab](https://colab.research.google.com/drive/1pE0_TRUw9vZxFHiCtuUi4myiP7HiYwo_)
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### 
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
+
+[View code on Colab](https://colab.research.google.com/drive/1GKY0TV0JVOQYWfnkd8-EnTR_QX4wK4Cp)
 
 ---
 
