@@ -38,7 +38,17 @@ In this visualization, I displayed the distribution of contract types among chur
 
 ---
 
-### Category Name 2
+### Customer Sentiment Trends with VADER Analysis
+
+This project focused on sentiment analysis using VADER to categorize customer reviews based on their polarity (positive, neutral, negative). I handled data preprocessing, sentiment scoring, and visualizing sentiment trends across various score levels. By addressing the challenge of visual clarity, I ensured the insights were intuitive and actionable for further analysis.
+
+This plot compares positive, neutral, and negative sentiment distributions across review scores. I tackled the challenge of visual clarity by organizing the data into subplots and using a clean layout, ensuring each sentiment is easy to interpret.
+
+<img src="images/roberta & huggingface.png?raw=true" />
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
+
+[View code on Kaggle](https://www.kaggle.com/code/kaushalll/1st-nlp-with-transformers-roberta-hugging-face)
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
