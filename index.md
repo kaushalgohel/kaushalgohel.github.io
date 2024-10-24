@@ -50,11 +50,13 @@ This plot compares positive, neutral, and negative sentiment distributions acros
 
 [View code on Kaggle](https://www.kaggle.com/code/kaushalll/1st-nlp-with-transformers-roberta-hugging-face)
 
-- [Project 1 Title](http://example.com/)
+
+## Data-Driven Insights Projects
+
+- [Car Price EDA]([http://example.com/](https://colab.research.google.com/drive/1hBZY6cCpX7yFrgc9TuOogXBtG2dC2yii))
+
 - [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+
 
 ---
 
