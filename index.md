@@ -4,7 +4,7 @@
 
 ### Customer Segmentation 
 
-This project involved analyzing customer data to derive actionable insights through segmentation using KMeans clustering. Key features such as Monetary Value, Frequency, and Recency were engineered and scaled for clustering. Outliers were identified and handled separately to enhance the analysis. The final output categorized customers into meaningful segments, providing a foundation for targeted marketing strategies. Visualizations and statistical summaries were utilized to illustrate the distribution and characteristics of each segment, enabling better decision-making for customer relationship management.
+In this project, I developed a sentiment analysis model to classify user reviews into categories like Positive, Negative, Neutral, and Irrelevant. I performed extensive text preprocessing, including cleaning, stemming, and stopword removal, followed by feature extraction using TF-IDF. I then trained and evaluated multiple machine learning models, such as Logistic Regression, SVC, Random Forest, XGBoost, and CatBoost, along with ensemble techniques like Bagging and Voting Classifiers. The models were assessed based on metrics like accuracy, precision, recall, and F1 score, with results visualized through confusion matrices. This project demonstrates my skills in natural language processing, machine learning model selection, and performance evaluation.
 
 Here, the plot visualizes customer cluster distribution and average feature values, highlighting the number of customers per cluster alongside their average Recency, Frequency, and Monetary Value per 100 pounds.
 
@@ -12,7 +12,7 @@ Here, the plot visualizes customer cluster distribution and average feature valu
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/Numpy-white?logo=Numpy)](#) [![](https://img.shields.io/badge/Pandas-white?logo=Pandas)](#) [![](https://img.shields.io/badge/Colab-white?logo=Colab)](#) [![](https://img.shields.io/badge/sklearn-white?logo=sklearn)](#)
 
-[View code on Colab](https://colab.research.google.com/drive/1VWvxmgF7gVLRm5Mf_ZfkSdrp_9RISwbl)
+[View code on Colab](https://colab.research.google.com/drive/1sQfpS7NDApsyYXzr8km4TvyO-QhAkzof?usp=sharing)
 
 ---
 ### Disease Prediction Model Using Multiple Classifiers
