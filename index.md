@@ -58,7 +58,7 @@ I developed a spam classification system using Natural Language Processing (NLP)
 
 <img src="images/Untitled (1).png?raw=true" />
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/Numpy-white?logo=Numpy)](#) [![](https://img.shields.io/badge/Pandas-white?logo=Pandas)](#) [![](https://img.shields.io/badge/Colab-white?logo=Colab)](#) [![](https://img.shields.io/badge/sklearn-white?logo=sklearn)](#)
 
 [View code on Colab](https://colab.research.google.com/drive/1a0httr3EX6-AeKPAYr_024VlRwSwPwp4?usp=sharing)
 
