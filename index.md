@@ -67,7 +67,7 @@ I developed a spam classification system using Natural Language Processing (NLP)
 
 - [Car Price EDA]([http://example.com/](https://colab.research.google.com/drive/1hBZY6cCpX7yFrgc9TuOogXBtG2dC2yii))
 
-- [Project 2 Title](http://example.com/)
+- [Coffee Sales EDA](https://colab.research.google.com/drive/1ztc8E3Xd7O3Ol-Wof7B4cE_ObaYMupOW?usp=sharing)
 
 
 ---
