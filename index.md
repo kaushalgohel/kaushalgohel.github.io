@@ -56,7 +56,7 @@ This plot compares positive, neutral, and negative sentiment distributions acros
 
 I developed a spam classification system using Natural Language Processing (NLP) and Machine Learning techniques, designed to accurately distinguish between spam and legitimate messages. The project began with comprehensive data cleaning and preprocessing, including the removal of duplicates, tokenization, stop word removal, and stemming, ensuring the dataset was optimized for analysis. I conducted detailed exploratory data analysis (EDA), visualizing patterns such as word frequency, character counts, and other text properties to gain deeper insights into the dataset. To convert the textual data into a machine-readable format, I employed CountVectorizer for feature extraction. The classification model, built using a Multinomial Naive Bayes algorithm, achieved a test accuracy of 98.4%. The model's performance was rigorously evaluated using precision, recall, F1-score, and a confusion matrix, confirming its effectiveness for real-world applications. This project showcases my ability to handle unstructured data, apply NLP techniques, and build robust predictive models, reflecting my skills in developing practical machine learning solutions.
 
-<img src="images/Untitled.png?raw=true" />
+<img src="images/Untitled (1).png?raw=true" />
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
 
