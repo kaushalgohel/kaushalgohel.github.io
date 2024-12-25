@@ -60,7 +60,7 @@ I developed a spam classification system using Natural Language Processing (NLP)
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
 
-[View code on Kaggle](https://www.kaggle.com/code/kaushalll/1st-nlp-with-transformers-roberta-hugging-face)
+[View code on Colab](https://colab.research.google.com/drive/1a0httr3EX6-AeKPAYr_024VlRwSwPwp4?usp=sharing)
 
 
 ## Data-Driven Insights Projects
