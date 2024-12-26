@@ -15,28 +15,6 @@ Analyzed sentiment distribution across datasets to ensure balanced representatio
 [View code on Colab](https://colab.research.google.com/drive/1sQfpS7NDApsyYXzr8km4TvyO-QhAkzof?usp=sharing)
 
 ---
-### Disease Prediction Model Using Multiple Classifiers
-
-This project leverages machine learning techniques to predict potential diseases based on symptoms provided by users. Utilizing a dataset of symptoms and corresponding disease outcomes, the model employs multiple classifiers, including Support Vector Classifier (SVC), Gaussian Naive Bayes, and Random Forest, to generate accurate predictions. 
-
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
-
-[View code on Colab](https://colab.research.google.com/drive/1pE0_TRUw9vZxFHiCtuUi4myiP7HiYwo_)
-
----
-### Customer Churn Prediction Project
-
-This project analyzes customer data to predict churn behavior using linear regression. It involves data preprocessing, exploratory analysis, and model evaluation to identify key factors influencing customer retention. Insights derived from the analysis aim to enhance strategies for reducing churn.
-
-In this visualization, I displayed the distribution of contract types among churned customers, differentiating them by payment method. This plot helps to identify trends in customer churn related to contract agreements.
-
-<img src="images/payment_methods.png?raw=true" />
-
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
-
-[View code on Colab](https://colab.research.google.com/drive/1GKY0TV0JVOQYWfnkd8-EnTR_QX4wK4Cp)
-
----
 
 ### Customer Sentiment Trends with VADER Analysis
 
