@@ -1,4 +1,4 @@
-## Innovative Projects in Data Science, Machine Learning and NLP
+## NATURAL LANGUAGE PROCESSING (NLP) PROJECTS
 
 ---
 
